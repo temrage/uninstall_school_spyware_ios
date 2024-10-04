@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://i.imgur.com/4ESXHWV.png" width="20%" alt="UNINSTALL_SCHOOL_SPYWARE_IOS-logo">
+</p>
+<p align="center">
+    <h1 align="center">UNINSTALL_SCHOOL_SPYWARE_IOS</h1>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/github/license/temrage/uninstall_school_spyware_ios?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/temrage/uninstall_school_spyware_ios?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/temrage/uninstall_school_spyware_ios?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/temrage/uninstall_school_spyware_ios?style=flat&color=0080ff" alt="repo-language-count">
 # 📱 iOS/iPadOS Proxy & MDM Removal Guide
 
 This guide will walk you through how to remove the Securly proxy and MDM profiles from your iOS/iPadOS device.
