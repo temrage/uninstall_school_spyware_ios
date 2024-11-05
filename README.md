@@ -14,7 +14,7 @@
 This guide will walk you through how to remove the Securly proxy and MDM profiles from your iOS/iPadOS device.
 
 > ❗ **Important Notes**  
-> - DO NOT remove the SSL certificate if your school uses SSL inspection. The certificate (ca.secururs-software) might be critical for secure access.
+> - DO NOT remove the SSL certificate if your school uses SSL inspection. The certificate (ca.secururs-software) is needed as the school uses https inspection.
 
 ---
 
@@ -42,7 +42,7 @@ For further details, visit [Zoho Corp's guide](https://www.manageengine.com/prod
 
 > ❗ **Troubleshooting Tips**  
 > - If your internet stops working, try forgetting your Wi-Fi network and reconnecting.
-> - If you encounter an HTTPS error (such as "Your connection is not private"), follow the instructions on the [SSL Inspection page](https://github.com/temrage/school_ssl_inspection) to resolve the issue.
+> - If you encounter an HTTPS error (such as "Your connection is not private"), follow the instructions on the [SSL Inspection page](https://github.com/temrage/school_ssl_inspection) to resolve the issue. 
 
 ---
 
